@@ -1,5 +1,5 @@
 # Path to your Node.js project
-$projectPath = "C:\Path\To\Your\Project"
+$projectPath = "E:\workspace\backend"
 
 # Get list of all installed packages
 $packages = Get-ChildItem -Path "$projectPath\node_modules" -Directory
